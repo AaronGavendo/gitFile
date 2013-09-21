@@ -10,3 +10,7 @@ Function add (double c, double d)
 {
 	return (a + b);
 }
+Function subtract (double e, double f)
+{
+	return (r - f);
+}
